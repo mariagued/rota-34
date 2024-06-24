@@ -1,0 +1,93 @@
+html{
+    background-color: #f2f2f2;
+}
+li{
+    list-style-type: none;
+}
+
+#navbar-color{
+  background-color: #f2f2f2;
+}
+
+
+
+/*INICIO DO STYLE DA NAVBAR INDEX.HTML*/
+/* Estilo para o ícone do hambúrguer */
+.navbar-toggler {
+  border: none;
+  background: transparent !important;
+}
+/*FIM DA STYLE DA NAVBAR INDEX.HTML*/
+
+#button-enviar{
+    margin-top: 3rem;
+}
+
+.container{
+    align-items: baseline;
+    justify-content: center;
+}
+
+#text-relatorio{
+    color: rgb(107, 107, 107);
+    text-align: center;
+    margin-top: 5rem;
+
+}
+/* FORMATACAO DAS FONTES ANIMADAS*/
+.animate{
+  text-transform: uppercase;
+}
+
+/*card carros-texto*/
+#card-text{
+  text-align: center;
+  margin: 1rem 0 3rem 0;
+}
+
+#h2-animacao{
+  margin: 3rem 0 2rem 0;
+  text-align: center;
+}
+
+.error-text {
+  display: none;
+  color: red;
+  font-size: 0.875rem;
+}
+
+#Input-check{
+  margin: 3rem auto 5rem auto;
+
+}
+
+
+/* Fotos redes*/
+#fotos-redes{
+  margin: 1rem 0 1rem 0;
+
+}
+
+/* Estilos básicos para o footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  margin-top: 6vh;
+  padding-bottom: 6vw;
+  padding: 20px;
+  text-align: center;
+  position:static;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
